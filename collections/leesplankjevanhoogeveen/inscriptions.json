@@ -110,5 +110,21 @@
       ],
       "name": "Duif"
     }
+  },
+  {
+    "id": "c6c30a354811b036f8a23a4ed1341e42b5ec8bd29caf4abe20606a18b37d47b1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Letters",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Yes"
+        }
+      ],
+      "name": "Duif"
+    }
   }
 ]
