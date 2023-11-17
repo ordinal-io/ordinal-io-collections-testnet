@@ -1,0 +1,482 @@
+[
+  {
+    "id": "f20b0384a25fdf38ddddbcb9afe75d90028594ff7cf665e487be4ecf55d28ec3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "ed5300555a57da052c89aa1978a145529da21e1caf069233f6f4a3e4c95fa26ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "6df704f633d445b21de0685ffd9dfeff8d3aaeb9bbbe50745f0403746a51bd05i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "c3d61737b7808832ca186c7e88198885ab7cb19b9b0dd6a56f961e03bbce739di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "7fb4ed551591d281ffee2d7756ca72fb784fe667443234ecfccfeab96f82e729i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "1"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot1_24h"
+    }
+  },
+  {
+    "id": "cc9354332b21ceb671e3f739ad1fc9a52d47ff799eb2a180fe816e2380eda35ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "2"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot2_24h"
+    }
+  },
+  {
+    "id": "12301e68f07b644a7566e1604d5d4d50b76c1dcb28e02322b84b45ed00f0c685i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "2"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot2_24h"
+    }
+  },
+  {
+    "id": "607e3ca998b5c45440fcfa98d774acab75b0c131fdd3474a2a740feb4b065595i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "2"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot2_24h"
+    }
+  },
+  {
+    "id": "c956ccf72239a0b7b987e776e42543c62e78f735135a5229dc4da13b519129a6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "2"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot2_24h"
+    }
+  },
+  {
+    "id": "34edb8389c8d98d5c675ef442eda9ea2b7ac40bcb0ba3cb4b16b6df4c275d742i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "3"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot3_24h"
+    }
+  },
+  {
+    "id": "656bdbd02b96ce5a73c7af0c1519a671b8ddbd5e55fe99f70ff5e2e64332d44bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "3"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot3_24h"
+    }
+  },
+  {
+    "id": "1cca0891fe927d17d932c0dee6d2a8f224a1a30caa8c98debf6218f6b8507755i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "3"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot3_24h"
+    }
+  },
+  {
+    "id": "79818152d1396f54617ae637c4e47d540582316a8091d922a36fef1ff250935di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "3"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot3_24h"
+    }
+  },
+  {
+    "id": "fdba38272f2c82b5b7c390b24ba1b57eedfe6af65ca0443b4365642c424faefai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "3"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot3_24h"
+    }
+  },
+  {
+    "id": "b6dc3746e5457228c50fae072998fa1d3fb672af6b8056032dee495f5728281ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "4"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot4_24h"
+    }
+  },
+  {
+    "id": "343ca6fa56fbea0403a0aade26f5784e256a8d5a201e79f05cea6bbef782a91ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "4"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot4_24h"
+    }
+  },
+  {
+    "id": "efdf27bb98ffeab9911234901ec4ce5e058fbb5b7b5152aa89e2c72151ea9628i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "4"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot4_24h"
+    }
+  },
+  {
+    "id": "d06837ae92b350fb0cadd31b7e2d3276f6a28d6286e00c2c5e3f497c8c7f5856i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "4"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot4_24h"
+    }
+  },
+  {
+    "id": "2d414dd0f278b0a4149812c7154a370046ce79ddff641715b363d3a460cba6eei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "4"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot4_24h"
+    }
+  },
+  {
+    "id": "3cd76d47bb8338f83a35d16fba93304b38e210a23d3679cdbbb29e53b3a99c6fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "5"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot5_24h"
+    }
+  },
+  {
+    "id": "197a458898b4184edadfb7150e4ddf4c348b8e8c4c5f2ec9570b99d9bb630271i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "5"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot5_24h"
+    }
+  },
+  {
+    "id": "dcf471c201d056d59d11baaaa456d145a1ca59d72c34ee851ae4447c97362a7ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "5"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot5_24h"
+    }
+  },
+  {
+    "id": "e60e9026a3d6f3244880e2bdf4469aaa1c1fb5488308f53cb8f6da2b1474d8bdi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "5"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot5_24h"
+    }
+  },
+  {
+    "id": "0961a655bc644eb2cc07152695b98163f7d7cf5695ef1741f60258e8b5039ceai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "5"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot5_24h"
+    }
+  },
+  {
+    "id": "c08eecbe56e9883d6af28ae060a0a06aeeff9b5599a2f8cf1b2acec16faad905i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  },
+  {
+    "id": "a77f9ed18933025bc1688c61f33161d4800689f05ff2cd34d4c3d1b87a1baf45i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  },
+  {
+    "id": "3730e3f4b2ec4c74bbec380fa2681227169e4a04e887c7dfea94542fb0e90765i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  },
+  {
+    "id": "9eefbd0c801da38e00b6b596babe94c6a856a5c372a4e8ba9f304edd2a260892i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  },
+  {
+    "id": "e9eea376701bef25c60383c1670ea58fcb622e6e52fb19a72d2d2c09e0e78babi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  },
+  {
+    "id": "a0e6b324690aa44ae56860c098024fd5bb51757b355a1cb3dbae17ede7dadaddi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Spot",
+          "value": "6"
+        },
+        {
+          "trait_type": "Duration",
+          "value": "24"
+        }
+      ],
+      "name": "Spot6_24h"
+    }
+  }
+]
